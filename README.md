@@ -9,3 +9,7 @@
 # Wireframe Complete
 
 ![](wireframe-completed.png)
+
+# Stark Contrast
+
+![](checking-contrast.png)
