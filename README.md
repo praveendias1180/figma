@@ -13,3 +13,9 @@
 # Stark Contrast
 
 ![](checking-contrast.png)
+
+# Icon Design
+
+![](icon-design.png)
+
+![](fill-modes.png)
